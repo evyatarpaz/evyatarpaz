@@ -23,21 +23,18 @@ I am a highly motivated Software Engineer and Computer Science graduate from Bar
 
 ### 🛠️ Featured Projects
 
-**[Engram - High-Performance Vector DB](https://github.com/evyatarpaz)**
+**[Engram - High-Performance Vector DB](https://github.com/evyatarpaz/Engram)**
 * **Tech:** C++17, Python, AVX2 SIMD, CMake.
 * **Impact:** Engineered a zero-dependency embedded vector search engine utilizing custom contiguous flat-buffer memory layouts. Achieved a 24.5x speedup over standard baselines for AI data pipelines, keeping execution times under 60ms for 100,000 vectors.
 
-**[Secure One-Time File Share](https://github.com/evyatarpaz)**
+**[Secure One-Time File Share](https://github.com/evyatarpaz/Secure-File-Share-Service)**
 * **Tech:** AWS Serverless, Terraform, Python, DynamoDB.
 * **Impact:** Architected an ephemeral, security-first file-sharing backend. Implemented strict "burn-after-reading" logic utilizing DynamoDB atomic state management to prevent data leaks.
 
-**[FairNet - Network Flow Planner](https://github.com/evyatarpaz)**
+**[FairNet - Network Flow Planner](https://github.com/evyatarpaz/FairNet)**
 * **Tech:** React, Node.js, Python, MongoDB.
 * **Impact:** Built a distributed algorithmic microservice tool to analyze and model capacity-constrained network topologies, maintaining strict data consistency across the stack.
 
-**[IssueFlow - Social Media Platform](https://github.com/evyatarpaz)**
-* **Tech:** React, Node.js, MongoDB.
-* **Impact:** Engineered a full-stack social platform focused on seamless user interaction, robust backend data management, and scalable architecture.
 
 ### 📫 Let's Connect!
 
