@@ -19,7 +19,7 @@ I am a highly motivated Software Engineer and Computer Science graduate from Bar
 | **Languages** | C, C++, Python, Java, JavaScript, SQL, Rust, SML |
 | **Cloud & DevOps** | AWS (Lambda, S3, DynamoDB), Terraform (IaC), Docker, Git, Linux |
 | **Full-Stack** | React.js, Node.js, Express.js, MongoDB |
-| **Specialized** | Low-Level Optimization (AVX2 SIMD), Networking/TCP (Grade: 96), Operating Systems (Grade: 99), Agentic Tools (Cursor) |
+| **Specialized** | Low-Level Optimization (AVX2 SIMD), Networking/TCP (Grade: 96), Operating Systems (Grade: 99), Agentic Tools (Cursor, GitHub Copilot, Google Antigravity) |
 
 ### 🛠️ Featured Projects
 
